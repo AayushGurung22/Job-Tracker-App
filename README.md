@@ -59,8 +59,8 @@ DELETE	/api/applications/:id	Delete an application
 ## Running locally
 1. Clone the repo
 bash
-git clone https://github.com/your-username/job-tracker.git
-cd job-tracker
+git clone https://github.com/AayushGurung22/Job-Tracker-App.git
+cd Job-Tracker-App
 2. Backend setup
 bash
 cd backend
