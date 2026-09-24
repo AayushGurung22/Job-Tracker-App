@@ -99,5 +99,6 @@ What I learned
 
 Building this was my first time connecting a full stack end to end — React on the frontend, Express/Mongoose on the backend, MongoDB Atlas as the database. Along the way I worked through CORS configuration, schema validation with Mongoose enums, derived state with useMemo for the dashboard's live stats, and building a client-side search/filter pipeline over fetched data.
 
-## Built by Aayush Gurung
+## Built by 
+### Aayush Gurung
 ## Linkedin: https://www.linkedin.in/aayushgurung22
