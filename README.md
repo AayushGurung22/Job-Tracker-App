@@ -1,4 +1,4 @@
-Job Application Tracker
+## Job Application Tracker
 
 A full-stack job application tracker built to replace the usual "spreadsheet of job applications" with something purpose-built — track every application's status, see interview and offer rates at a glance, and search/filter through your pipeline as it grows.
 
